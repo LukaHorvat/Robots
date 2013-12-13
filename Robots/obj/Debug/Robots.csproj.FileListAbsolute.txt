@@ -1,0 +1,6 @@
+c:\users\luka\documents\visual studio 2012\Projects\Robots\Robots\bin\Debug\Robots.exe.config
+c:\users\luka\documents\visual studio 2012\Projects\Robots\Robots\bin\Debug\Robots.exe
+c:\users\luka\documents\visual studio 2012\Projects\Robots\Robots\bin\Debug\Robots.pdb
+c:\users\luka\documents\visual studio 2012\Projects\Robots\Robots\obj\Debug\Robots.csprojResolveAssemblyReference.cache
+c:\users\luka\documents\visual studio 2012\Projects\Robots\Robots\obj\Debug\Robots.exe
+c:\users\luka\documents\visual studio 2012\Projects\Robots\Robots\obj\Debug\Robots.pdb
